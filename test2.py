@@ -1,1 +1,1 @@
-bbbbb
+print ("Test2 program")
