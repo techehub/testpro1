@@ -1,2 +1,2 @@
-print ("Test1 program")
-print ("----------")
+print ("AAAAAAAAAAA")
+print ("BBBBBBBBBB")
